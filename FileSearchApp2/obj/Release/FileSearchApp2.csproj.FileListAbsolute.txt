@@ -1,0 +1,11 @@
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\bin\Release\FileSearchApp2.exe.config
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\bin\Release\FileSearchApp2.exe
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\bin\Release\FileSearchApp2.pdb
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.csproj.AssemblyReference.cache
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.Form1.resources
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.Properties.Resources.resources
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.csproj.GenerateResource.cache
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.csproj.CoreCompileInputs.cache
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.exe
+C:\Users\Вадя\Desktop\FS\FileSearchApp2\obj\Release\FileSearchApp2.pdb
