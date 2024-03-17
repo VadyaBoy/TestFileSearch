@@ -109,9 +109,8 @@
             this.laCurDir.AutoSize = true;
             this.laCurDir.Location = new System.Drawing.Point(12, 555);
             this.laCurDir.Name = "laCurDir";
-            this.laCurDir.Size = new System.Drawing.Size(55, 16);
+            this.laCurDir.Size = new System.Drawing.Size(0, 16);
             this.laCurDir.TabIndex = 7;
-            this.laCurDir.Text = "laCurDir";
             // 
             // timer1
             // 
@@ -122,18 +121,16 @@
             this.laTimer.AutoSize = true;
             this.laTimer.Location = new System.Drawing.Point(12, 539);
             this.laTimer.Name = "laTimer";
-            this.laTimer.Size = new System.Drawing.Size(53, 16);
+            this.laTimer.Size = new System.Drawing.Size(0, 16);
             this.laTimer.TabIndex = 8;
-            this.laTimer.Text = "laTimer";
             // 
             // laFilesCount
             // 
             this.laFilesCount.AutoSize = true;
             this.laFilesCount.Location = new System.Drawing.Point(12, 523);
             this.laFilesCount.Name = "laFilesCount";
-            this.laFilesCount.Size = new System.Drawing.Size(81, 16);
+            this.laFilesCount.Size = new System.Drawing.Size(0, 16);
             this.laFilesCount.TabIndex = 9;
-            this.laFilesCount.Text = "laFilesCount";
             // 
             // Form1
             // 
