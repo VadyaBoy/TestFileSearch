@@ -37,6 +37,10 @@ namespace FileSearchApp2
             {
                 if (thread.IsAlive)
                 {
+                    if(!ThreadStateForPause)
+                    {
+                        thread.Resume();
+                    }
                     thread.Abort();
                 }
             }
